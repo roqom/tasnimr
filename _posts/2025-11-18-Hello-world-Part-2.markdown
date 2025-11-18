@@ -3,12 +3,11 @@ layout: post
 title: "Hello world! (Part 2)"
 date: 2025-11-18
 ---
-Here's to another "Hello world!"
 
-I just moved my blog from WordPress to a static site build by Jekyll. So this is my first post after the migration.
+I just moved my WordPress blog to a static site, built using Jekyll. This is my first post after the migration.
 
-I'm trying to get myself familiar with this new way of blogging without the WordPress CMS. I am in my terminal as I'm writing this post in markdown language.
+I'm still getting used to this new way of blogging: writing in Markdown, working from the terminal, and managing Git. But I'm enjoying the learning process.
 
-From the outset it seems pretty straightforward to build a site with Jekyll. But as you read the documentation there are many things happening under the hood -- configuration, layout, theme, Ruby and its Gems, Git, etc. 
+Jekyll feels simple on the surface. You can build a site quickly with few commands in the terminal. But once you look under the hood, there's a lot happening: configuration files, layouts, theme, Ruby and its gems, and more. Just read Jekyll's documentation.
 
-For a start, I will just use the default Jekyll theme Minima. I think it looks pretty good. But I plan to customize the look of my site  as I learn more about Jekyll.
+For now, I'm sticking with the default Minima theme. It looks clean, and let me focus on writng before I dive deeper into customizing the site.
