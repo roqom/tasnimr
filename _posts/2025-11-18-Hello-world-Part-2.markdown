@@ -2,6 +2,7 @@
 layout: post
 title: "Hello world! (Part 2)"
 date: 2025-11-18
+permalink: /hello-world-2/
 ---
 
 I just moved my WordPress blog to a static site built with Jekyll. This is my first post after the change. 
