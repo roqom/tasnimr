@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Ruby Script 002: Gregorian year to Hijri year"
+date: 2025-11-09
+permalink: /ruby-script-002-gregorian-to-hijri/
+---
+
+This simple script converts Gregorian year into Hijri year. This is just an approximate conversion.
+
+### The Script: ###
+
+{% highlight ruby %}
+puts "Key in a Gregorian year:"
+
+gregorian = gets.chomp.to_i
+
+hijri = ((gregorian - 622) * 33) / 32
+
+hijri_plus_one = hijri + 1
+
+puts "#{gregorian} CE ≈ #{hijri} H / #{hijri_plus_one} H"
+{% endhighlight %}
+
+Example output:
+
+{% highlight ruby %}
+< Key in a Gregorian year
+=>622
+< 622 CE ≈ 0 H / 1 H
+{% endhighlight %}
+
+### Notes/What I Learned ###
+
+Nothing much about ruby but more on history.
+
+The Hijri calendar was introduced in 638 CE by Caliph Umar ibn al-Khattab.
+
+Instead of starting from the Prophet Muhammad’s birth or first revelation, it begins with a historic journey: the Hijrah, when Prophet Muhammad and his followers migrated from Mecca to Yathrib (Medina) in 622 CE.
+
+### How you can help ###
+
+1. Got a better way to write the code? Share your thoughts in the comments!
+
+2. Fuel my next late-night coding session: [buymeacoffee.com/tasnimr](https://buymeacoffee.com/tasnimr)

@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Ruby Script 001: Hours to Minutes"
+date: 2025-11-02
+permalink: /ruby-script-001-hours-to-minutes/
+---
+
+Hello world.
+
+This is my first script. Well, not exactly the first— I've written a few basic Ruby scripts, but they are mostly from the examples and exercises from the book Learn to Program by Chris Pine.
+
+This time round, I want to synthesize what I've learned from the book by writing  more scripts and creating my own small projects. 
+
+Anyway, this first script is pretty basic and nothing fancy. You enter the hours, and the program will return the number in minutes.
+
+### The Script: ###
+
+{% highlight ruby %}
+puts "Please enter how many hours:"
+
+hours = gets.chomp.to_i
+
+in_minutes = hours * 60
+
+puts "#{hours} hrs => #{in_minutes} mins"
+{% endhighlight %}
+
+Example Output:
+
+{% highlight ruby %}
+< Please enter how many hours:
+=>3
+< 3 hrs => 180 mins
+{% endhighlight %}
+
+### Notes/What I Learned ###
+
+Remember to convert gets.chomp into number by using the method to_i. Otherwise the program couldn't multiply by the number 60. By default gets.chomp will return the value as string.
+
+---
+
+
+### How you can help ###
+
+1. Got a better way to write the code? Share your thoughts in the comments!
+
+2. Fuel my next late-night coding session: [buymeacoffee.com/tasnimr](https://buymeacoffee.com/tasnimr)
