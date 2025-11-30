@@ -2,7 +2,7 @@
 layout: post
 title: "On building prayertimes.sg"
 date: 2025-08-11
-permalink: /prayertimes.sg/
+permalink: /prayertimessg/
 ---
 
 PrayerTimesSG [prayertimes.sg](https://prayertimes.sg) is my first web-based application project I built for the public.  
