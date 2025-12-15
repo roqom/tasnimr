@@ -34,6 +34,19 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# I, Tasnim, added this:
+collections:
+  commute_log:
+    output: true
+    permalink: /commute-log/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: commute_log
+    values:
+      layout: post
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
