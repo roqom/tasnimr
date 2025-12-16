@@ -1,0 +1,1 @@
+Generally, I prefer minimalism over maximalism. More so in aesthetic. but sometimes you have to max things out when there's a need and minimalism can be dangerous.
