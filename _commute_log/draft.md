@@ -14,4 +14,4 @@ At the outset Mu'tazila's framework seems beautiful and simple, at least for me.
 1- Maintaining God as essence without attributes 
 2- Quran as a creation
 
-All those issues, causes a fork in the framework whichthe Ashari came and eloquently solve them. It is the Ashari framework that I realized when there's a need to maximize things you must maximize.
+All those issues, causes a fork in the framework which the Ashari came and eloquently solve them. It is the Ashari framework that I came to realized when there's a need to maximize things you must maximize. And when there's a need to minimize, you minimize. The Ashari is all about moderation and putting things where it is due. In ontology 
