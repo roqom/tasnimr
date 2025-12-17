@@ -9,7 +9,10 @@ we constantly ask:
 2- Can we maintain simplicity without the need to multiply reality?
 3- Can we just maintain some words at linguistic branch without commiting and pushing towards reality to make sure it's ontologically clean and neat?
 
-At the outset Mu'tazila's framework seems beautiful and simple, at least for me. But in metaphysics, this will lead to lots of issue or "bugs", among the 
+At the outset Mu'tazila's framework seems beautiful and simple, at least for me. But in metaphysics, this will lead to lots of issue or "bugs", among the famous ones:
+
+1- Maintaining God as essence without attributes 
+2- Quran as a creation
 
  
 
