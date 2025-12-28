@@ -7,7 +7,7 @@ permalink: /commute-log/
 <p class="commute-desc">
   Short daily notes from my commute—raw thoughts, questions, and small reflections.
 </p>
-<h4>Tags</h4>
+
 {% assign logs = site.commute_log | sort: "date" | reverse %}
 
 {% assign all_tags = "" | split: "" %}
@@ -26,8 +26,6 @@ permalink: /commute-log/
     <a href="#" class="tag-pill" data-tag="{{ t | escape }}">{{ t }}</a>
   {% endfor %}
 </div>
-
-<br>
 
 <ul class="commute-list">
   {% for item in logs %}
@@ -76,5 +74,4 @@ permalink: /commute-log/
   if (m) setActive(decodeURIComponent(m[1]));
 })();
 </script>
-
 
